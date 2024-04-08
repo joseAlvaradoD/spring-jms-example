@@ -1,4 +1,4 @@
-package jjad.springframework.config;
+package jjad.springframework.jms.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
