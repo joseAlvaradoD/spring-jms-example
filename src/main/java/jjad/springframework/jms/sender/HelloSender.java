@@ -1,6 +1,6 @@
-package jjad.springframework.sender;
+package jjad.springframework.jms.sender;
 
-import jjad.springframework.config.JmsConfig;
+import jjad.springframework.jms.config.JmsConfig;
 import jjad.springframework.jms.model.HelloWorldMessage;
 import lombok.RequiredArgsConstructor;
 import org.springframework.jms.core.JmsTemplate;
